@@ -39,7 +39,10 @@ GhostSwap relies on a Trusted Execution Environment (hardware-based confidential
 - `DEPLOYMENT-GUIDE.md` — step-by-step, no-coding deployment instructions using Remix + MetaMask + Sepolia testnet
 
 ## Deployment Status
-This submission includes a complete, compilable Solidity contract and a fully documented deployment path (see `DEPLOYMENT-GUIDE.md`). The contract was not live-deployed to testnet for this submission, as development was done entirely from a mobile device without access to a desktop deployment environment. The deployment steps are written so any reviewer or teammate can deploy it in under 15 minutes on a desktop browser.
+## Deployment Status
+✅ **Live on Sepolia testnet.** Contract address: `0xEdE85514187514e36B429b259E5b87Ee9532Bc23`
+
+You can verify this directly on [Sepolia Etherscan](https://sepolia.etherscan.io/address/0xEdE85514187514e36B429b259E5b87Ee9532Bc23).
 
 ## Setup, Deployment & Usage
 Full step-by-step instructions are in `DEPLOYMENT-GUIDE.md`. Short version:
